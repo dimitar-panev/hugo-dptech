@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'DP Tech Blog'
-theme = 'risotto'
+
+baseURL = "https://dimitar-panev.github.io/hugo-dptech/"
+languageCode = "en-us"
+title = "DP Tech Blog"
+theme = "risotto"
