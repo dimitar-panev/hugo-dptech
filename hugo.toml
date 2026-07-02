@@ -1,9 +1,34 @@
 baseURL = "https://dimitar-panev.github.io/hugo-dptech/"
-languageCode = "en-us"
 title = "DP Tech Blog"
 theme = "risotto"
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
 
 [params]
+  # macOS terminal prompt aesthetic
   prompt = "dpanev@macbook-air:~$ "
-  description = "Network Engineering, Homelabs, and FOSS."
-  mainSections = ["posts"]
+
+[params.theme]
+  # You can change this to any of the 16 base16 palettes
+  palette = "base16-dark"
+
+# This block populates the homepage box that was previously blank
+[params.about]
+  title = "Dimitar Panev"
+  description = "Network Engineering, FOSS, and macOS workflows."
+  logo = "💻"
+
+[[params.socialLinks]]
+  icon = "fa-brands fa-github"
+  title = "GitHub"
+  url = "https://github.com/dimitar-panev"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10

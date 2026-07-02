@@ -1,5 +1,7 @@
 +++
-date = '2026-07-01T17:36:36+03:00'
+title = "Introduction"
+date = 2026-07-02
 draft = true
-title = 'Introduction'
 +++
+
+Welcome to my new blog! This is where I will be documenting my IT projects, network engineering notes, and macOS setups.' > content/posts/introduction.md
