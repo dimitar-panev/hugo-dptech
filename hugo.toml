@@ -1,5 +1,9 @@
-
 baseURL = "https://dimitar-panev.github.io/hugo-dptech/"
 languageCode = "en-us"
 title = "DP Tech Blog"
 theme = "risotto"
+
+[params]
+  prompt = "dpanev@macbook-air:~$ "
+  description = "Network Engineering, Homelabs, and FOSS."
+  mainSections = ["posts"]
