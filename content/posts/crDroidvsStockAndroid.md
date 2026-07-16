@@ -1,6 +1,6 @@
 +++
 
-title = 'cdDroid vs Stock Android:
+title = 'cdDroid vs Stock Android'
 draft = false
 date = 2026-07-15
 
