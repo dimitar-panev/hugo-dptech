@@ -8,7 +8,7 @@ date = 2026-07-05
 
 A note before I start doing anything: by AI chatbot some people know it as a generative AI assistant or an LLM(large language model). How you want to call it is entirely up to you I just want to be clear when it comes to this.\
 Whether you are someone that is using AI in a daily basis or not it is important to know which AI chatbot is the best and quickest, with the best reponses when it comes to daily tasks.\
-What I mean by daily tasks ? Here is what I mean:\
+What I mean by daily tasks ? Here is what I mean:
 ### When it comes to Information and Explanation:
 - Asking simple questions about a person, building, etc. 
 - Normal academic questions regarding simple stuff(not including math).
@@ -17,10 +17,10 @@ What I mean by daily tasks ? Here is what I mean:\
 ### When it comes to Content Creation and Editing:
 - Drafting
 - Editing
-- Ideation(Give me 10 name ideas for a tech statup.)\
+- Ideation(Give me 10 name ideas for a tech statup.)
 
-The examples are plenty but let's get to the comparison.\
-I will divide everything how it already is: First it's Information and Explanation and then Content Creation and Editing. Just for the sake of it I will also include Coding and Technical Support.\
+The examples are plenty but let's get to the comparison.
+I will divide everything how it already is: First it's Information and Explanation and then Content Creation and Editing. Just for the sake of it I will also include Coding and Technical Support.
 
 ## 1. Information, Explanation, and Deep Reasoning
 The technical frontier here is defined by test-time compute scaling, RAG (Retrieval-Augmented Generation) pipeline integration, and non-saturated benchmarks like GPQA Diamond and Humanity's Last Exam (HLE).\
@@ -29,7 +29,7 @@ The technical frontier here is defined by test-time compute scaling, RAG (Retrie
 - *GPT 5.5 Pro: OpenAI's flagship remains the enterprise standard for parallel RAG pipelines. It boasts exceptionally low TTFT (Time To First Token) for its parameter size and features highly reliable function calling, making it the most stable model for querying massive, highly structured vector databases.
 - *A new personal favourite contender: *Lumo 2.0 Max by Proton*: Released in late June 2026, Lumo 2.0 Max introduces a new "Thinking" mode for multi-step reasoning. While Proton claims a 240% performance jump over Lumo 1.4 on the Artificial Analysis Intelligence Index, its true differentiator is that it guarantees verifiable privacy via zero-access encryption. It also features live web search with source citations for accurate information retrieval, making it ideal when you need deep reasoning on highly sensitive data. Why its my favourite ? Because it does what I need it to do at the level of other paid models. Yes there is a limit but I rarely exceed it which makes it ideal for me!.
 ## 2. Content Creationg and Context Engineering.
-Writing requires a model to understand nuance, follow strict formatting constraints, and maintain a natural tone over long documents.\
+Writing requires a model to understand nuance, follow strict formatting constraints, and maintain a natural tone over long documents.
 - *Anthtorpic (Claude Opus 4.8 & Sonnet 5)*: Claude is widely considered the gold standard for writing. Anthropic's aggressive Direct Preference Optimization (DPO) helps the model avoid the typical synthetic "AI tone." With a 1-million-token context window and near-perfect retrieval accuracy, you can drop in entire books for structural editing.
 - *OpenAI(GPT 5.5) While its raw prose can sometimes lean toward predictable patterns, GPT-5.5 features the most rigid adherence to JSON-mode and structured outputs, making it the most reliable tool for deterministic content pipelines and API integrations.
 - *Proton(Lumo 2.0 Max):* For content creation, Lumo 2.0 introduced "Custom Lumos" and user-controled "Memory" tied to encrypted projects. This allowes one to build specialized writing assistants that remember your preferred tone and formatting instructions across sessions, all while ensuring your drafts are stored locally and encrypted. 
