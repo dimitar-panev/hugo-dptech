@@ -1,14 +1,12 @@
 +++
 
-title = 'cdDroid vs Stock Android'
+title = 'cdDroid vs Stock Android: An old Samsung saved'
 draft = false
 date = 2026-07-15
 
 +++
 
-  
 
-# crDroid vs Stock Android: An Old Samsung Saved
 
 ### The Problem
 
